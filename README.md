@@ -1,6 +1,6 @@
 Welcome! 👋
 
-**Copy this Among US I made it took 2 hours to make.**
+**Check out this Among Us I made! It took me 2 hours to create.**
 ```
 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
 🟨🟨🟨🟨🟨⬛⬛⬛⬛🟨🟨🟨🟨
@@ -12,4 +12,3 @@ Welcome! 👋
 🟨🟨⬛🟥🟥🟥🟥🟥🟥⬛🟥⬛🟨
 🟨🟨⬛🟥🟥🟥🟥🟥🟥⬛🟥⬛🟨
 ```
-**Copy this Among US I made it took 2 hours to make.**

@@ -7,7 +7,7 @@
 - 🔵 **Discord Server Moderation** (Committed to providing excellent moderation services for your server, available for 6 hours daily, and capable of moderating conversations in various languages)
 - 🔵 **Discord Server Community Management** (Experienced in managing server communities, organizing events, giveaways, enhancing server functionality, similar to Discord server design tasks, and more)
 - 👩‍💻 **Software Development** (Proficient in developing tools, software, web servers, APIs using Python, Node.js, Golang, and more)
-- 📚 **Wiki Writing/Maintenance** (Able to create professional-grade wikis for your projects)
+- 📚 **Wiki Writing** (Able to create professional-grade wikis for your projects)
 - 🧰 **Project Management** (Skilled in maintaining and managing projects effectively)
 
 ## 📜 Experience:

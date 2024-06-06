@@ -1,5 +1,5 @@
 # 👋 About me:
-🧐 Hi, I'm **Rusky**. My real name is **Ayaan**, and I'm **16 years old** from **Pakistan**. I have skills and experience in **development**, **management**, **team leading**, and more. I improve my self every day and aim to deliver better experiences.
+🧐 Hi, I'm **Rusky**. My real name is **Ayaan**, and I'm **16 years old** from **Pakistan**. I have skills and experience in **development**, **management**, **team leading**, and more. I improve my self every day and aim to deliver better experience.
 
 ## 🎓 Skills:
 - 🟢 **Minecraft Server Development** (Skilled in configuring various types of proxies and proficient in learning new ones quickly. Knowledgeable about all types of server software, including **plugins**, and prioritizes optimization)

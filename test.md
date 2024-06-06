@@ -31,3 +31,6 @@
 - **Developer @ RedBird** (200+ Members) | [RESIGNED]
 
 ***🔖 Names without a link mean that I do not have a URL for them. and If a URL is not working or information is invalid, please reach out to me via Discord.***
+
+## 💰 How to Hire me?
+You can send me an email at [contact@ruskydev.com](mailto:contact@ruskydev.com) or message me on [Discord](https://discord.com/users/969507085316399154) for pricing inquiries. Feel free to ask about the service you need, and I'll provide custom quotes based on your requirements. I accept payments through Paypal.

@@ -21,7 +21,7 @@
 - **Co-Founder @ [J4J’s Coin Shop](https://discord.gg/NbmWHywm4p)** (600+ Members)
 - **Partnership Manager @ Reward’s Hometown** (11,000+ Members) | [RESIGNED]
 - **Administrator @ AtlasMC** (3000+ Members) | [RESIGNED]
-- **Community Manager @ Thunder Rayz** (1000+ Members) | [RESIGNED]
+- **Community Manager @ [Thunder Rayz](https://discord.com/invite/dppybvSm)** (1000+ Members) | [RESIGNED]
 
 🟢 **Minecraft Servers:**
 - **Co-Founder & Developer @ HogoPogo SMP** (40+ Players) | [SERVER CLOSED]

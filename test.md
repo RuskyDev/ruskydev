@@ -21,7 +21,4 @@
 ⚪ **Other Companies:**
 - **Developer @ RedBird** (200+ Members) | [RESIGNED]
 
-
-`🔖 Names without a link mean that I do not have a URL for them.`
-
-`🌐 If a URL is not working or information is invalid, please reach out to me via Discord.`
+***🔖 Names without a link mean that I do not have a URL for them. and If a URL is not working or information is invalid, please reach out to me via Discord.***

@@ -1,6 +1,8 @@
-🧐 Hi, I'm **Rusky**. My real name is **Ayaan**, and I'm **16 years old** from **Pakistan**. I have skills and experience in **development**, **management**, **team leading**, and more. I strive to improve every day and aim to deliver exceptional experiences.
+# About me:
+🧐 Hi, I'm **Rusky**. My real name is **Ayaan**, and I'm **16 years old** from **Pakistan**. I have skills and experience in **development**, **management**, **team leading**, and more. I improve my self every day and aim to deliver better experiences.
 
-📜 **Experience:**
+## 📜 Experience:
+
 🔵 **Discord Servers:**
 - **Support @ [MooNodes](https://discord.com/invite/jUwawB5uBP)** (3000+ Members) | [RESIGNED]
 - **Administrator @ [Maze](https://discord.com/invite/j2xTVard5N)** (400+ Members) | [RESIGNED]
@@ -19,5 +21,5 @@
 ⚪ **Other Companies:**
 - **Developer @ RedBird** (200+ Members) | [RESIGNED]
 
-🔖 Names without a link mean that I do not have a URL for them. 
+🔖 Names without a link mean that I do not have a URL for them.
 🌐 If a URL is not working or information is invalid, please reach out to me via Discord.

@@ -2,13 +2,13 @@
 🧐 Hi, I'm **Rusky**. My real name is **Ayaan**, and I'm **16 years old** from **Pakistan**. I have skills and experience in **development**, **management**, **team leading**, and more. I improve my self every day and aim to deliver better experiences.
 
 ## 🎓 Skills:
-- Minecraft Server Development (Proxies all type of proixes and can learn new one ealises and plugins i know all plugins and can leaarn new one easlie all type of server sofrwares kn9wloange and optimztions is top protiity)
-- Discord Server Designing (channels, bots, roles, secutity, and custom bots and much more)
-- Discord server moderation (i will do the best moderation for your server / 6 hours a day / all type of languages will be moderated)
-- discord server commuinty managmeent (i will manage your commuinty and your entire server and also host events giveawats and make the server better and also same as discord server designing and much more)
-- software development (python tools softwares nodejs web servers apis and golang and much more)
-- Wiki Writing/maintainer (can write very profesnal wikis for your projects)
-- Project Mangmeent (i can maintain and manage your projects)
+- **Minecraft Server Development** (Skilled in configuring various types of proxies and proficient in learning new ones quickly. Knowledgeable about all types of server software, including **plugins**, and prioritizes optimization)
+- **Discord Server Design** (Capable of designing channels, bots, roles, security measures, custom bots, and more)
+- **Discord Server Moderation** (Committed to providing excellent moderation services for your server, available for 6 hours daily, and capable of moderating conversations in various languages)
+- **Discord Server Community Management** (Experienced in managing server communities, organizing events, giveaways, enhancing server functionality, similar to Discord server design tasks, and more)
+- **Software Development** (Proficient in developing tools, software, web servers, APIs using Python, Node.js, Golang, and more)
+- **Wiki Writing/Maintenance** (Able to create professional-grade wikis for your projects)
+- **Project Management** (Skilled in maintaining and managing projects effectively)
 - 
 ## 📜 Experience:
 

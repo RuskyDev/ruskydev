@@ -31,6 +31,7 @@
 - **Developer @ RedBird** (200+ Members) | [RESIGNED]
 
 ***🔖 Names without a link mean that I do not have a URL for them. and If a URL is not working or information is invalid, please reach out to me via Discord.***
+
 ***📉 This list represents only a small fraction of the people I've worked with or am currently working with, but I have worked with many more people in the past.***
 
 ## 💰 How to Hire me?

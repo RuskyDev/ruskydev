@@ -1,6 +1,6 @@
 ## 👋 Hey, what's up!
 
-I do things you might find interesting. Check out my website at [https://rusky.is-a.dev](https://rusky.is-a.dev)
+I do things you might find interesting. Check out my website at [https://rusky.is-a.dev](https://rusky.is-a.dev?ref=github)
 
 💬 Contact me via [Discord](https://discord.com/users/969507085316399154)  
 📮 Contact me via [Email](mailto:iamayaanalee@gmail.com)

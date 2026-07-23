@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuskyDev&theme=tokyonight&style=for-the-badge" alt="Profile Views counter" width="450" />
-  <a href="https://codetime.dev" target="_blank">
-    <img src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D18018" alt="CodeTime Badge" width="450" />
+  <img src="https://komarev.com/ghpvc/?username=RuskyDev&theme=tokyonight&style=for-the-badge" alt="RuskyDev's Profile Views" width="450" />
+  <br />
+  <a href="https://codetime.dev/en/user/18018" target="_blank">
+    <img alt="RuskyDev's CodeTime Profile" src="https://shields.jannchie.com/endpoint?style=flat-square&color=247EC6&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D18018%26label_color%3D555555" width="450" />
   </a>
 
   <h3>Languages</h3>

@@ -6,7 +6,7 @@
   </a>
 
   <p>
-    <strong>Note:</strong> Most of my GitHub activity comes from private projects and repositories.
+    <strong>Note:</strong> Most of my GitHub activity comes from private repositories, primarily while building <a href="https://arcaira.com">ARCAIRA</a>.
   </p>
 
   <h3>Languages</h3>
